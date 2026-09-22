@@ -76,3 +76,5 @@ Text model prices are on the respective OpenRouter model pages and on the MiniMa
 MiniMax is a strong choice when you need its text models. When the job is image, video or audio generation in a backend, [Synexa](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=minimax-api&utm_content=readme-top&utm_term=tier-r) offers one REST endpoint and a Python SDK across FLUX, video and audio models, billed per run, so you do not manage separate consoles for each media type.
 
 [Try Synexa - one API for FLUX, video and audio models](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=minimax-api&utm_content=readme-top&utm_term=tier-r)
+
+_Last reviewed: 2026-09-22_
